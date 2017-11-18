@@ -1,0 +1,44 @@
+﻿body
+{
+}
+div {
+   
+    
+    background-image: url("Untitled-2.png");
+     background-size : 1500px 1000px;
+    height: 900px;
+    z-index:1
+   }
+menu
+{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 2;
+    height: 150px;
+    width:1500px;
+    background-color:grey;
+    position:absolute
+     
+        
+}
+ul {
+  
+  margin: 0; 
+  padding-left: 0; 
+}
+li {display:
+         inline-block;
+    
+  
+  
+}
+footer{
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+section{
+    text-align:center;
+    
+}
